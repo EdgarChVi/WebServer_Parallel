@@ -11,8 +11,6 @@
 
 #include "Consumer.hpp"
 
-
-
 /**
  * @brief A dispatcher is both, a consumer of its own queue, and a producer
  * for many queues. For each data that is pushed to its queue, the dispatcher
