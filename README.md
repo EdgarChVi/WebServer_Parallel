@@ -12,7 +12,7 @@
 
 |   ID   |         Nombre       |         Correo        |
 |--------|----------------------|-----------------------|
-| B05895 |  Mauricio Sánchez U. | mauricio.sanchezurena |
+| C5A022 |  Edgar Chaves Villal | edgar.chaves.villalobos |
 | C29896 |  Gabriel Alba R.     | gabriel.alba          |
 |  | | |
 |  | | |
