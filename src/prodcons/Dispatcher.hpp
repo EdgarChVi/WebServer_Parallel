@@ -7,8 +7,11 @@
 
 #include <exception>
 #include <map>
+#include <stdexcept>
 
 #include "Consumer.hpp"
+
+
 
 /**
  * @brief A dispatcher is both, a consumer of its own queue, and a producer
